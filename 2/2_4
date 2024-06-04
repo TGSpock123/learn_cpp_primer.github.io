@@ -1,0 +1,7 @@
+#ifndef _2_4
+#define _2_4
+
+#include <iostream>
+int stone_to_lb (int sts);
+
+#endif
